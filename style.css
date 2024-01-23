@@ -1,0 +1,33 @@
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: purple;
+}
+
+.summary {
+    font-size: 24px;
+    color:blueviolet;
+}
+
+.links {
+    font-size: 48px;
+    background-color: orange;
+}
+
+h2 {
+    background-color: aqua;
+    color: teal;
+    font-size: 32px;
+}
+
+.ingredients {
+    background-color: yellow;
+    font-size: 18px;
+}
+
+.steps {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: brown;
+}
